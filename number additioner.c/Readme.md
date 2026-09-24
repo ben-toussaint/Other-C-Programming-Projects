@@ -1,0 +1,1 @@
+## Write a C program to add all the numbers entered by a user if a zero is entred, the program should skip it.
